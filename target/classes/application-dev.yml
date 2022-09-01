@@ -1,0 +1,18 @@
+## 端口号 上下文路径
+server:
+  port: 8989
+  servlet:
+    context-path: /mvc
+spring:
+  freemarker:
+    suffix: .ftl
+    content-type: text/html
+    charset: UTF-8
+    template-loader-path: classpath:/views/
+logging:
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger- %msg%n"
+    level: debug
+  file:
+    path: "."
+    name: "springboot_01.log"

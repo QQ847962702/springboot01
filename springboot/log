@@ -1,0 +1,11 @@
+2022-08-23 11:01:17.589 debug 9572 --- [main] com.pw.StarterApplication                : Starting StarterApplication on DESKTOP-PEJEHDT with PID 9572 (started by pengwei in E:\代码区\Y2\SpringBoot_01)
+2022-08-23 11:01:17.591 debug 9572 --- [main] com.pw.StarterApplication                : No active profile set, falling back to default profiles: default
+2022-08-23 11:01:18.530 debug 9572 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8989 (http)
+2022-08-23 11:01:18.540 debug 9572 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-23 11:01:18.541 debug 9572 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-08-23 11:01:18.636 debug 9572 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/boot]   : Initializing Spring embedded WebApplicationContext
+2022-08-23 11:01:18.637 debug 9572 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 999 ms
+2022-08-23 11:01:18.804 debug 9572 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-23 11:01:18.964 debug 9572 --- [main] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2022-08-23 11:01:19.038 debug 9572 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8989 (http) with context path '/boot'
+2022-08-23 11:01:19.041 debug 9572 --- [main] com.pw.StarterApplication                : Started StarterApplication in 2.028 seconds (JVM running for 3.325)

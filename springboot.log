@@ -1,0 +1,15 @@
+2022-08-24 08:20:29.502 debug 50296 --- [main] com.csdj.StarterApplication              : Starting StarterApplication on LAPTOP-P0GP61EE with PID 50296 (D:\Softinstall\s3project\SpringBoot01\target\classes started by Zyq in D:\Softinstall\s3project\SpringBoot01)
+2022-08-24 08:20:29.510 debug 50296 --- [main] com.csdj.StarterApplication              : The following profiles are active: dev
+2022-08-24 08:20:30.287 debug 50296 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8989 (http)
+2022-08-24 08:20:30.294 debug 50296 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-24 08:20:30.294 debug 50296 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+2022-08-24 08:20:30.296 debug 50296 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2022-08-24 08:20:30.296 debug 50296 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2022-08-24 08:20:30.296 debug 50296 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2022-08-24 08:20:30.306 debug 50296 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2022-08-24 08:20:30.362 debug 50296 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-24 08:20:30.363 debug 50296 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 803 ms
+2022-08-24 08:20:30.476 debug 50296 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-24 08:20:30.519 debug 50296 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2022-08-24 08:20:30.662 debug 50296 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8989 (http) with context path ''
+2022-08-24 08:20:30.665 debug 50296 --- [main] com.csdj.StarterApplication              : Started StarterApplication in 1.562 seconds (JVM running for 2.135)
